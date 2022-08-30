@@ -1,0 +1,16 @@
+ <table cellspacing="0" cellpadding="1" border="1">
+            <tr>
+                <td rowspan="3">DESIGNATION DES OUVRAGES et fournitures</td>
+                <td>DISPOSITIONS ADOPTEES, INDICATIONS A DONNER</td>
+                <td>                            <table cellspacing="0" cellpadding="1" border="1"> 
+                                                    <tr>  
+                                                        <td> test<td>
+                                                    </tr>  
+                                                    <tr>  
+                                                         <td> test<td>
+                                                         <td> test<td>
+                                                    </tr>  
+                                                 </table>       
+                </td>
+            </tr>
+        </table>'
